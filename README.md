@@ -40,10 +40,6 @@ generating and sending sales reports.
 Contributions to improve the tool are welcome. Please fork the
 repository, make your changes, and submit a pull request.
 
-## 📜 License
-
-This project is released under the MIT License. See the LICENSE file for
-more details.
 
 ## 🙏 Acknowledgments
 
